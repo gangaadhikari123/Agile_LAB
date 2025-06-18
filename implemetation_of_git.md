@@ -5,7 +5,7 @@
 
 
  B.configure Git initial
-      ->git config --global user.name "Prasamsha Tripathi"
+      ->git config --global user.name "Ganga Adhikari"
       ->git config --global user.email "adhikariganga2061@gmail.com"
 
 
